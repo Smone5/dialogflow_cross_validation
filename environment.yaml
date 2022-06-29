@@ -1,0 +1,31 @@
+name: dialogflow_cross_validation
+channels:
+  - intel
+  - fastai
+  - pytorch
+  - anaconda
+  - conda-forge
+  - huggingface
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pandas
+  - transformers
+  - tqdm
+  - fastprogress
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - sentence-transformers
+  - ipywidgets
+  - pytorch
+  - torchvision
+  - cpuonly
+  - torchaudio
+  - networkx
+  - gensim
+  - notebook
+  - google-auth
+  - streamlit
