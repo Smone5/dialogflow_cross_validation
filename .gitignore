@@ -1,6 +1,7 @@
 
 # ignore files
 *.xlsx
+*.log
 
 
 # Byte-compiled / optimized / DLL files
